@@ -14,7 +14,7 @@ A gym environment for a miniature, [F1Tenth](https://f1tenth.org/)-like racecar 
 You can install ``racecar_gym`` with the following commands:
 
 ```shell_script
-git clone https://github.com/axelbr/racecar_gym.git
+git clone https://github.com/nvan21/f1tenth_sim.git
 cd racecar_gym
 pip install -e .
 ```
